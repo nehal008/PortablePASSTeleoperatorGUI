@@ -1,5 +1,5 @@
 # TammyAgentInterface
-The branch "Portable" is for the python-based tele-operation experimenter interface for Tammy Agent application.
+A python-based tele-operation experimenter interface for Portable Pass SAR caregiver application.
 
 ## How to Run the Interface
 1. From the home directory, go to 'interface'->'dist'->'pass_qt'
