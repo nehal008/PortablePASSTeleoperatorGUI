@@ -19,18 +19,18 @@ import pyrebase
 # pyrebase config
 config = {
     # # Start of Original
-    # "apiKey": "AIzaSyDAleM7TLeMWddKrGIrQYe8zS0bWjdeCDw",
-    # "authDomain": "dialogflowcx-test-tpk.firebaseapp.com",
-    # "databaseURL": "https://dialogflowcx-test-tpk-default-rtdb.firebaseio.com",
-    # "storageBucket": "dialogflowcx-test-tpk.appspot.com"
+    # "apiKey": "",
+    # "authDomain": " ",
+    # "databaseURL": " ",
+    # "storageBucket": " "
     # # # End of Original
     # Start of Modification by FY
-    "apiKey": "AIzaSyB5X2MKtUIiNecy-768pslZ9XADiRpo4jw",
-    "authDomain": "passexperiment-bfa25.firebaseapp.com",
-    "databaseURL": "https://passexperiment-bfa25.firebaseio.com",
-    "storageBucket": "passexperiment-bfa25.appspot.com"
+    "apiKey": " ",
+    "authDomain": " ",
+    "databaseURL": " ",
+    "storageBucket": " "
     # this works without the serviceAccount credential so ?
-    #"serviceAccount": r"/home/rob/Downloads/passexperiment-bfa25-firebase-adminsdk-7ljxj-2145fbcabf.json"
+    #"serviceAccount": r" "
 }
 
 # initialze pyrebase
