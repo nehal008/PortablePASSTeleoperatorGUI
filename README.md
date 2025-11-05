@@ -1,6 +1,5 @@
 # TammyAgentInterface
-The branch "Portable" is for the python-based tele-operation interface
- Experimenter interface for Tammy Agent application.
+The branch "Portable" is for the python-based tele-operation experimenter interface for Tammy Agent application.
 
 ## How to Run the Interface
 1. From the home directory, go to 'interface'->'dist'->'pass_qt'
